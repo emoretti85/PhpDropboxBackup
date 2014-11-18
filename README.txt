@@ -23,7 +23,7 @@ in seguito i file presenti nella cartella Backup verranno caricati sui server di
 [EN]
 
 1. Get a copy of the SDK dropbox (https //www.dropbox.com/developers/core/sdks/php). 
-	IMPORTANT !!!!! If you are using Composer remember to change the require dell'autoload file dbb / Dbb.php at line 11 
+	IMPORTANT !!!!! If you are using Composer remember to change the require of autoload file dbb / Dbb.php at line 11 
 
 2. Create a Dropbox app (https //www.dropbox.com/developers/apps) 
 	IMPORTANT !!! The link redirects you input into the Dropbox app, will be the link to the page 'dbb / Dbb_landing.php' 
